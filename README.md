@@ -15,6 +15,8 @@ docker.io/emmygozi/glover
 ## About The Project
 The project is hosted in a kubernetes cluster on: http://34.122.59.193/
 
+Kubenetes acts as a load balancer for our use case here. https://kubernetes.io/docs/concepts/services-networking/
+
 This repository contains the cloned repository, terraform code, python script and kubernetes helm chart used to deploy the application.
 
 Here's a breakdown:
